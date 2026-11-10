@@ -1,0 +1,49 @@
+@charset "UTF-8";
+body {
+	background-color: lightblue;
+	font-family: Georgia, "Times new Roman"
+}
+
+#contenitore {
+	background-color: white;
+	width: 800px;
+	height:640px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+#testa {
+	text-align: center;
+	background-color:pink;
+	color: black;
+	font-size: 30px;
+	padding: 10px;
+}
+	
+	#contenuto {
+	width:770px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:none;
+	}
+
+#libro1, #libro2, #libro3, #libro4, #libro5, #libro6 {
+	width: 240px;
+	height: 270px;
+	float: left;
+	padding: 5px;
+	border: 1px solid black;
+	text-align: center;
+}
+img {
+	width: 130px;
+	height: 190px;
+}
+
+p {
+	margin:auto;
+}
+
+
+
+
